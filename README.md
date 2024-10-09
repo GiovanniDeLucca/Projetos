@@ -1,2 +1,2 @@
 # Projetos
-Projetos pessoais.
+Coleções de scripts pessoais.
