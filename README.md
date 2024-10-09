@@ -1,5 +1,9 @@
 ### Summary
 
+O WebFuzzer é uma ferramenta  para realizar fuzzing em sites, funcionando tanto em Linux quanto em Windows.
+
+Utilize o parâmetro **-u** para especificar a URL desejada e o parâmetro **-w** para definir a wordlist a ser utilizada.
+
 ### Instalation
 
 - `git clone https://github.com/GiovanniDeLucca/Projetos`
